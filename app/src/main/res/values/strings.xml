@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomDialogFragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_title">Dialog Title</string>
+    <string name="dialog_messge">This is a custom dialog fragment</string>
+    <string name="dialog_positive_button">POSITIVE</string>
+    <string name="dialog_negative_button">NEGATIVE</string>
+    <string name="dialog_neutral_button">NEUTRAL</string>
+    <string name="show_alert">SHOW ALERT</string>
+</resources>
